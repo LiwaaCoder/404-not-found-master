@@ -17,6 +17,5 @@ Awesome 404 page built with HTML, CSS3 and JavaScript 👍
 
 ### Built With
 
-- Html
-- Css3
-- Javascript
+- HTML
+- CSS
