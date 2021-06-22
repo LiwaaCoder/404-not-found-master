@@ -13,7 +13,7 @@ Awesome 404 page built with HTML, CSS3 and JavaScript 👍
   </h3>
 </div>
 
-![screenshot](https://github.com/sharipovme/404-not-found-master/blob/main/preview.png)
+![screenshot](https://sharipov-404-not-found-master.netlify.app/preview.png)
 
 ### Built With
 
